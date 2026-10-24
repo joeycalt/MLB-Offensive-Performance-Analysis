@@ -9,7 +9,7 @@ Historical MLB Offensive Performance
 
 ## Core Visual Insights 
 
-### [<img width="409" height="612" alt="Screenshot 2026-10-24 at 7 27 31 PM" src="https://github.com/user-attachments/assets/8bdd1381-4f6d-4ef0-8b16-9fc63d85a9c4" />
-]
+### <img width="409" height="612" alt="Screenshot 2026-10-24 at 7 27 31 PM" src="https://github.com/user-attachments/assets/8bdd1381-4f6d-4ef0-8b16-9fc63d85a9c4" />
+
 
 The dashboard delivers three critical analytical viewpoints to a stakeholder: 1. **Total Volume Limits:** Highlights the raw, absolute statistical footprint across all player classifications. 2. **Performance Breakdown by Archetype (100% Stack):** Compares player profiles relative to themselves. This proves that while "Balanced" players hold the highest raw volume, "Power" hitters allocate a vastly higher percentage of their internal production toward run-generation (RBIs/HRs). 3. **Metric Market Share:** Evaluates who owns the largest slice of individual performance categories across the entire league.
