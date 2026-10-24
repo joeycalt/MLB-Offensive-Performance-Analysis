@@ -17,7 +17,7 @@ This project analyzes a historical dataset of over 10,000 Major League Baseball 
 
 ### Core Visual Insights 
 
-### <img width="398" height="607" alt="Screenshot 2026-10-24 at 7 54 15 PM" src="https://github.com/user-attachments/assets/a29984d3-b4ee-434b-948f-7795244eeb7b" />
+### <img width="396" height="606" alt="Screenshot 2026-10-24 at 7 55 40 PM" src="https://github.com/user-attachments/assets/9380d902-ca52-4b8d-b069-fc0912d35bb3" />
 
 ### The dashboard delivers three critical analytical viewpoints to a stakeholder: 
 ####
